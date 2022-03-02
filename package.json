@@ -4,7 +4,7 @@
   "description": "A transitions service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-transitions.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-transitions.git"
   },
   "keywords": [
     "doop"
@@ -12,10 +12,7 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-transitions/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-transitions/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-transitions#readme",
-  "workspaces": [
-    "../*"
-  ]
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-transitions#readme"
 }
